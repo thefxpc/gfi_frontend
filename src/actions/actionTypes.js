@@ -1,0 +1,13 @@
+export const PENDING = "PENDING";
+export const SUCCESS = "SUCCESS";
+export const ERROR = "ERROR";
+
+export const TOOGLE_BAR = "TOOGLE_BAR";
+
+export const FETCH_CAT_TIPO_METAL = "FETCH_CAT_TIPO_METAL";
+export const FETCH_BANDAS = "FETCH_BANDAS";
+
+//NOTIFICATION
+export const ENQUEUE_SNACKBAR = "ENQUEUE_SNACKBAR";
+export const CLOSE_SNACKBAR = "CLOSE_SNACKBAR";
+export const REMOVE_SNACKBAR = "REMOVE_SNACKBAR";
